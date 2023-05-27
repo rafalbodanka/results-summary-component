@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+  
+  <title>Frontend Mentor | Results summary component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+</head>
+<body>
+  <div class="container">
+    <div class="result_container">
+      <div class="result_content">
+        <p class="result_title">Your Result</p>
+        <div class="result_points_container">
+          <p class="result_points">76</p>
+          <p class="result_max_points">of 100</p>
+        </div>
+        <p class="result_descriptive_note">Great</p>
+        <p class="result_description">You scored higher than 65% of the people who have taken these tests.</p>
+      </div>
+    </div>
+    <div class="summary_container">
+      <div class="summary_content">
+        <p class="summary_title">Summary</p>
+        <div class="summary_details_container">
+          <div class="detail" id="reaction">
+            <div class="detail_title">
+              <span class="detail_name_icon"> <img class="summary_icon" id="icon-reaction" src="/assets/images/icon-reaction.svg"> </span>
+              <span class="detail_name reaction">Reaction</span>
+            </div>
+            <div class="detail_result">
+              <span class="detail_points">80</span>
+              <span class="detail_max_points">/ 100</span>
+            </div>
+          </div>
+          <div class="detail" id="memory">
+            <div class="detail_title">
+            <span class="detail_name_icon"> <img class="summary_icon" id="icon-memory" src="/assets/images/icon-memory.svg"> </span>
+            <span class="detail_name memory">Memory</span>
+            </div>
+            <div class="detail_result">
+            <span class="detail_points">60</span>
+            <span class="detail_max_points">/ 100</span>
+            </div>
+          </div>
+          <div class="detail" id="verbal">
+            <div class="detail_title">
+            <span class="detail_name_icon"> <img class="summary_icon" id="icon-verbal" src="/assets/images/icon-verbal.svg"> </span>
+            <span class="detail_name verbal">Verbal</span>
+            </div>
+            <div class="detail_result">
+            <span class="detail_points">70</span>
+            <span class="detail_max_points">/ 100</span>
+            </div>
+          </div>
+          <div class="detail" id="visual">
+            <div class="detail_title">
+            <span class="detail_name_icon"> <img class="summary_icon" id="icon-visual" src="/assets/images/icon-visual.svg"> </span>
+            <span class="detail_name verbal">Visual</span>
+            </div>
+            <div class="detail_result">
+            <span class="detail_points">80</span>
+            <span class="detail_max_points">/ 100</span>
+            </div>
+          </div>
+        </div>
+        <div class="continue_btn">Continue</div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/rafalbodanka" target="_blank">Rafał Bodanka</a>.
+  </div> -->
+</body>
+</html>

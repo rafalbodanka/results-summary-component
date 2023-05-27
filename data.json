@@ -1,0 +1,26 @@
+[
+  {
+    "reaction": 80,
+    "memory": 92,
+    "verbal": 61,
+    "visual": 72
+  },
+  {
+    "reaction": 92,
+    "memory": 62,
+    "verbal": 81,
+    "visual": 75
+  },
+  {
+    "reaction": 85,
+    "memory": 56,
+    "verbal": 60,
+    "visual": 80
+  },
+  {
+    "reaction": 80,
+    "memory": 96,
+    "verbal": 68,
+    "visual": 78
+  }
+]
