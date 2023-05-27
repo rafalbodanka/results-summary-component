@@ -16,7 +16,7 @@ This is a solution to the (https://www.frontendmentor.io/challenges/results-summ
 
 ### The challenge
 
-    The challenge concerned building out this results summary component and getting it as close to the design as possible. I upgraded it by adding smooth animation of total score display.
+The challenge concerned building out this results summary component and getting it as close to the design as possible. I upgraded it by adding smooth animation of total score display.
 
 ### Screenshots
 
