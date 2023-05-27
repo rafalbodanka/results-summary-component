@@ -25,7 +25,7 @@ This is a solution to the (https://www.frontendmentor.io/challenges/results-summ
 
 ### Links
 
-    Solution URL: 
+    Solution URL: https://rafalbodanka.github.io/results-summary-component/
 
 ## My process
 
