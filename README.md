@@ -25,7 +25,8 @@ The challenge concerned building out this results summary component and getting 
 
 ### Links
 
-    Solution URL: https://rafalbodanka.github.io/results-summary-component/
+Solution URL: 
+    https://rafalbodanka.github.io/results-summary-component/
 
 ## My process
 
