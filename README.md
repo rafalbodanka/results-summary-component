@@ -20,7 +20,7 @@ This is a solution to the (https://www.frontendmentor.io/challenges/results-summ
 
 ### Screenshots
 
-![](./screenshot-dekstop.png)
+![](./screenshot-desktop.png)
 ![](./screenshot-mobile.png)
 
 ### Links
